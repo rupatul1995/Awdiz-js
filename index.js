@@ -1,53 +1,55 @@
-1. Data 
+// 1. Data 
 
- data is information of anything -Rutuja ,Awdiz
+//  data is information of anything -Rutuja ,Awdiz
 
- 2.Datatype
+//  2.Datatype
 
- name - Rutuja - String
- age  - 23     -  number
- yes/no        -Boolean
- confused      -undefined
-
-
-
- Rutuja
- 654651
- hellow
- welcome
- log out
-
-  1.String
-   syntax-rule
-   "" ,'',``
-
-   kuchbhi
-   "kuchbhi"=string
-   'log out'=string
-   `welcom`=string
-
-2. Number
-
-syntax
-12
-486
-54687
-768464
+//  name - Rutuja - String
+//  age  - 23     -  number
+//  yes/no        -Boolean
+//  confused      -undefined
 
 
-3.Boolean
 
-syntax
+//  Rutuja
+//  654651
+//  hellow
+//  welcome
+//  log out
 
-true false
+//   1.String
+//    syntax-rule
+//    "" ,'',``
 
-4.undefined
+//    kuchbhi
+//    "kuchbhi"=string
+//    'log out'=string
+//    `welcom`=string
 
-syntax= pending
+// 2. Number
 
-varibles
-Storage
+// syntax
+// 12
+// 486
+// 54687
+// 768464
 
+
+// 3.Boolean
+
+// syntax
+
+// true false
+
+// 4.undefined
+
+// syntax= pending
+
+// varibles
+// Storage
+var myStudentName = "Rutuja" 
+var myStudentAge = 23
+var myStudentCompletedAssignment = true
 
 console.log(myStudentName)
 
