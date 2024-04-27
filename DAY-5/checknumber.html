@@ -6,154 +6,22 @@
     <title>Document</title>
 </head>
 <body>
-    <input type="number" placeholder="Enter any number
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    "/><br/>
-    <button  onclick="checknumber()">Submit </button>
+    <input type="number" placeholder="Enter any number"/></br>
+    <button onclick="checknumber()">Submit
+    </button>
 </body>
 <script>
     function checknumber(){
-        alert("function called");
+        alert("function called.");
+        // console.log(document.getElementById("number").value);
+        const number= document.getElementById("number").value;
+        if(number % 2=== 0){
+            alert("number is even");
+           }
+           else{
+            alert("number is odd")
+           }
 
-    }
+            }
 </script>
 </html>
