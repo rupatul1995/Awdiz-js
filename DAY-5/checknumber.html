@@ -6,20 +6,19 @@
     <title>Document</title>
 </head>
 <body>
-    <input type="number" placeholder="Enter any number"/></br>
-    <button onclick="checknumber()">Submit
-    </button>
+    <input   id="number" type="number" placeholder="Enter any number"/></br>
+    <button onclick="CheckNumber()"> Submit</button>
 </body>
 <script>
-    function checknumber(){
-        alert("function called.");
+    function CheckNumber(){
+        // alert("function called.");
         // console.log(document.getElementById("number").value);
         const number= document.getElementById("number").value;
         if(number % 2=== 0){
-            alert("number is even");
+            alert("number is Even");
            }
            else{
-            alert("number is odd")
+            alert("number is Odd")
            }
 
             }
