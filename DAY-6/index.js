@@ -54,15 +54,29 @@
 // && (and logical oprator) 
 // || ( or logical oprator) 
 
-var first=10;
-var second=20;
-var third=40;
+
+
+//    *  && (and logical oprator):-
+// var first=10;
+// var second=20;
+// var third=40;
 // console.log(first<second);
 // console.log(second<third);
 // console.log(first<third);
 
 
-console.log(20>10 && 40>10);
+// console.log(20>10 && 40>10 && 20<40);
 // if all values are true then only && operator will return true
+
+// console.log(20<10 && 40>10 && 20<40);
 // if even one value found false then && operator will return false
 
+// || ( or logical oprator):-
+
+// var first=10;
+// var second=20;
+// var third=40;
+// console.log(20<10 && 40>10 && 20<40);
+// if even one true found then || operator will return true 
+// console.log(20<10 && 40<10 && 20>40);
+// when all conditions are false then only it'll return false
