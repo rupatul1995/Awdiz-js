@@ -59,7 +59,7 @@
 //     return number1+number2;
 //     console.log("hiiii0");
     
-//  }
+//  }1
 //  const answer=addition();
 //  console.log(answer, "answer");
 
