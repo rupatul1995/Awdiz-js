@@ -28,17 +28,17 @@
 
 
 // declare
-console.log(myClass)
-var myClass = 20; 
-console.log(myClass)
+// console.log(myClass)
+// var myClass = 20; 
+// console.log(myClass)
 
 // re-assigning
-myClass = 30; 
-console.log(myClass)
+// myClass = 30; 
+// console.log(myClass)
 
 // re-declare
-var myClass = 40;
-console.log(myClass)
+// var myClass = 40;
+// console.log(myClass)
 
 // Difference between var let const
 // 1. Redeclare and Reassign
