@@ -79,14 +79,14 @@
 // const array3 = [1, 2, "a", "1a"];
 // console.log(array3.toString());
 
-const array2 = [1, 30, 4, 21, 100000];
-array2.sort();
-console.log(array2);
+// const array2 = [1, 30, 4, 21, 100000];
+// array2.sort();
+// console.log(array2);
 
-const array1 = [1, 30, 4, 21, 100000];
-array1.sort((a, b) => a - b);
-array1.sort((a, b) => b - a);
-console.log(array1);
+// const array1 = [1, 30, 4, 21, 100000];
+// array1.sort((a, b) => a - b);
+// array1.sort((a, b) => b - a);
+// console.log(array1);
 
 // function(){}
 
