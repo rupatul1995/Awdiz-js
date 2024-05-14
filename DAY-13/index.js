@@ -29,7 +29,7 @@
 // Array.findIndex:=-> find index of array element
 
 const number = [5, 6, 7, 8, 9];
-const index = number.findIndex((value) => value >7);
+const index = number.findIndex((value) => value >77);
 console.log(index);
 
 
